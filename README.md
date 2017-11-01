@@ -55,13 +55,13 @@ Comments:
 <p align="center"><img src="https://user-images.githubusercontent.com/24521991/32142652-83a1f13a-bcd6-11e7-9898-8535c88a85cc.png"></p>
 
 <br/>
-<hr></hr>
-<br/>
 
 <h1>Google</h1>
 <a href="http://translate.google.cn">Google</a>
 <br/>
 <p>In order to make Google text translation work please include the file gettk.js in your bin/debug folder</p>
 
+<br/>
+<hr></hr>
 <br/>
 Open to any suggestion! Thanks!!
