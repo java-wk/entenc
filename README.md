@@ -47,12 +47,21 @@ Comments:
 <h1>iFlytek</h1>
 <a href="http://www.xfyun.cn/services/voicedictation">iFlytek-科大讯飞</a>
 <br/>
-<p>In order to make the Chinese voice recognition work you still need to follow next 2 steps:</p>
+<p>In order to make the Chinese voice recognition work please follow next 2 steps:</p>
 <ul>
 <li>Once you get your ID, download the SDK from your portal (below pic) 
 <li>Copy/paste the <b>msc.dll file</b> and <b>msc folder</b> in your bin/debug folder
 </ul>
 <p align="center"><img src="https://user-images.githubusercontent.com/24521991/32142652-83a1f13a-bcd6-11e7-9898-8535c88a85cc.png"></p>
+
+<br/>
+<hr></hr>
+<br/>
+
+<h1>Google</h1>
+<a href="http://translate.google.cn">Google</a>
+<br/>
+<p>In order to make Google text translation work please include the file gettk.js in your bin/debug folder</p>
 
 <br/>
 Open to any suggestion! Thanks!!
