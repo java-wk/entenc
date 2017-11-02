@@ -81,8 +81,20 @@ Comments:
 </ul>
 
 <p>Notice to use the Customize Speech service you have to check the "lib" checkbox and paste your service link which is provided everytime you set up a new customize speech:</p>
-
+<br/>
 <p align="center"><img src="https://user-images.githubusercontent.com/24521991/32304730-5ba21b50-bfac-11e7-8671-8cd11e1d74d5.png"></p>
+<br/>
+
+<h1>Baidu</h1>
+<a href="http://fanyi-api.baidu.com/api/trans/product/index">Baidu Translate</a>
+<br/>
+<p>In order to use Baidu Translate follow next steps:</p>
+<ul>
+<li>Register and get your ID + Key <a href="http://fanyi-api.baidu.com/api/trans/product/index">here</a>, then write them down in the <b>MainWindows.xaml.cs</b> file as shown in below pic
+  
+  <p align="center"><img src="https://user-images.githubusercontent.com/24521991/32305104-64a33a70-bfae-11e7-9536-669bcea7e5b9.png"></p>
+
+</ul>
 
 <br/>
 <hr></hr>
