@@ -62,7 +62,7 @@ Comments:
 <h1>Google</h1>
 <a href="http://translate.google.cn">Google</a>
 <br/>
-<p>In order to make Google text translation work please include the file gettk.js in your bin/debug folder</p>
+<p>In order to make Google text translation work please include the file <b>gettk.js</b> in your bin/debug folder</p>
 
 <br/>
 
