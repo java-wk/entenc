@@ -49,10 +49,13 @@ Comments:
 <br/>
 <p>In order to make the Chinese voice recognition work please follow next 2 steps:</p>
 <ul>
-<li>Once you get your ID, download the SDK from your portal (below pic) 
-<li>Copy/paste the <b>msc.dll file</b> and <b>msc folder</b> in your bin/debug folder
+<li>Register and get your ID <a href="http://www.xfyun.cn/services/voicedictation">here</a>, then write down your ID in the <b>App.config</b> file as shown in below pic
+  
+  <p align="center"><img src="https://user-images.githubusercontent.com/24521991/32303913-86bf042a-bfa6-11e7-8b97-9109786c75cc.png"></p>
+  
+<li>Download the SDK from your portal (as shown in below pic) then copy/paste the <b>msc.dll file</b> and <b>msc folder</b> in your bin/debug folder
+  <p align="center"><img src="https://user-images.githubusercontent.com/24521991/32142652-83a1f13a-bcd6-11e7-9898-8535c88a85cc.png"></p>
 </ul>
-<p align="center"><img src="https://user-images.githubusercontent.com/24521991/32142652-83a1f13a-bcd6-11e7-9898-8535c88a85cc.png"></p>
 
 <br/>
 
