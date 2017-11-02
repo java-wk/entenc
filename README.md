@@ -80,8 +80,9 @@ Comments:
   <p align="center"><img src="https://user-images.githubusercontent.com/24521991/32304499-b967e5d2-bfaa-11e7-8761-4402b7481145.png"></p>
 </ul>
 
-<p>Notice to use the Customize Speech service you have to check the "lib" checkbox and paste your service link which is provided everytime you set up a new customize speech:</p>
 <br/>
+
+<p>Notice to use the Customize Speech service you have to check the "lib" checkbox and paste your service link which is provided everytime you set up a new customize speech:</p>
 <p align="center"><img src="https://user-images.githubusercontent.com/24521991/32304730-5ba21b50-bfac-11e7-8671-8cd11e1d74d5.png"></p>
 <br/>
 
