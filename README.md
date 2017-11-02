@@ -47,9 +47,9 @@ Comments:
 <h1>iFlytek</h1>
 <a href="http://www.xfyun.cn/services/voicedictation">iFlytek-科大讯飞</a>
 <br/>
-<p>In order to make the Chinese voice recognition work please follow next 2 steps:</p>
+<p>In order to use the Chinese voice recognition follow next 2 steps:</p>
 <ul>
-<li>Register and get your ID <a href="http://www.xfyun.cn/services/voicedictation">here</a>, then write down your ID in the <b>App.config</b> file as shown in below pic
+<li>Register and get your ID <a href="http://www.xfyun.cn/services/voicedictation">here</a>, then write it down in the <b>App.config</b> file as shown in below pic
   
   <p align="center"><img src="https://user-images.githubusercontent.com/24521991/32303913-86bf042a-bfa6-11e7-8b97-9109786c75cc.png"></p>
   
@@ -63,6 +63,26 @@ Comments:
 <a href="http://translate.google.cn">Google</a>
 <br/>
 <p>In order to make Google text translation work please include the file gettk.js in your bin/debug folder</p>
+
+<br/>
+
+<h1>Microsoft</h1>
+<a href="https://azure.microsoft.com/en-us/services/cognitive-services/speech/">Bing Speech</a>
+<br/>
+<p>In order to use Microsoft voice recognition follow next steps:</p>
+<ul>
+<li>Register and get your Subscription Key <a href="https://azure.microsoft.com/en-us/services/cognitive-services/speech/">here</a>, then write it down in the <b>MainWindows.xaml.cs</b> file as shown in below pic
+  
+  <p align="center"><img src="https://user-images.githubusercontent.com/24521991/32304363-9f2413ea-bfa9-11e7-999b-11de73775833.png"></p>
+  
+<li>If you want to use the Cutomize Speech service register and ger your Subscription Key <a href="https://azure.microsoft.com/en-us/services/cognitive-services/custom-speech-service/">here</a>, then write it down in the <b>MainWindows.xaml.cs</b> file as shown in below pic
+  
+  <p align="center"><img src="https://user-images.githubusercontent.com/24521991/32304499-b967e5d2-bfaa-11e7-8761-4402b7481145.png"></p>
+</ul>
+
+<p>Notice to use the Customize Speech service you have to check the "lib" checkbox and paste your service link which is provided everytime you set up a new customize speech:</p>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/24521991/32304730-5ba21b50-bfac-11e7-8671-8cd11e1d74d5.png"></p>
 
 <br/>
 <hr></hr>
